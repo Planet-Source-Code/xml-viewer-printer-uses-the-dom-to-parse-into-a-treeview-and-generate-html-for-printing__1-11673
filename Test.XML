@@ -1,0 +1,35 @@
+<?xml version="1.0" ?> 
+<CompanyGroup>
+<Company1>
+	<Client Postgrade="F">
+		<Name>Renier</Name>
+		<Surname>Barnard</Surname>
+		<TelNo>082 740 4762</TelNo>
+		<Job>Programmer</Job>
+		<Status>Analyst</Status>
+	</Client>
+	<Client Postgrade="E">
+		<Name>Peter</Name>
+		<Surname>Marynowski</Surname>
+		<TelNo>082 555 5467</TelNo>
+		<Job>Programmer</Job>
+		<Status>Senior Analyst</Status>
+	</Client>
+</Company1>
+<Company2>
+	<Client Postgrade="F">
+		<Name>Renier</Name>
+		<Surname>Barnard</Surname>
+		<TelNo>082 740 4762</TelNo>
+		<Job>Programmer</Job>
+		<Status>Analyst</Status>
+	</Client>
+	<Client Postgrade="E">
+		<Name>Peter</Name>
+		<Surname>Marynowski</Surname>
+		<TelNo>082 555 5467</TelNo>
+		<Job>Programmer</Job>
+		<Status>Senior Analyst</Status>
+	</Client>
+</Company2>
+</CompanyGroup>
